@@ -1,5 +1,3 @@
-styles
-Exercise10.css.css
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
@@ -8,7 +6,7 @@ Exercise10.css.css
 }
 body
 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 41, 15);
     color: coral;
     height: max-content;
 }
@@ -20,6 +18,9 @@ header, nav, article, footer, .sec{
     width: 1000px;
     height: 200px;
     border: 1pt rgb(192, 0, 0) solid;
+}
+h2{
+    text-align: center;
 }
 ul{
     padding: 0px;
@@ -50,10 +51,11 @@ article{
 }
 .one, .two, .three{
     font-size: 13pt;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 4, 4);
     width: 950px;
     height: 500px;
     background-size: 950px;
+
 }
 h2{
     color: rgb(250, 192, 0);
@@ -62,7 +64,13 @@ p{
     text-indent: 5%;
 }
 .one{
-    background-image: url("1.jpg");
+    background-image: url("Percy-Jackson-and-the-Olympians-The-Lightning-Thief-images-fcf6116c-8aad-4b55-b413-a0b7fdfcf59.jpg");
+}
+.two{
+    background-image: url("the-maze-runner-new-poster.jpg")
+}
+.three{
+    background-image: url("474565-god-of-war-playstation-4-front-cover.jpg")
 }
 .logo{
     float: left;
