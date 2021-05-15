@@ -1,5 +1,5 @@
-document.getElementById("clean").innerHTML = "Enrico Charles Flora";
-document.getElementById("clean1").innerHTML = "BSIT";
-document.getElementById("clean2").innerHTML = "1st year";
-document.getElementById("clean3").innerHTML = "HUMCOM";
-document.getElementById("clean4").innerHTML = "HUMAN COMPUTERS";
+document.getElementById("sugar").innerHTML = "Enrico Charles Flora";
+document.getElementById("sugar1").innerHTML = "BSIT";
+document.getElementById("sugar2").innerHTML = "1st year";
+document.getElementById("sugar3").innerHTML = "HUMCOM";
+document.getElementById("sugar4").innerHTML = "HUMAN COMPUTERS";
