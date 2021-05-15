@@ -1,4 +1,4 @@
+document.write("name:Enrico Charles Flora\ncourse:BSIT\nyear:1st year\nsubjectcode:HUMCOM\nsection:IAA1\nsubjectdescription:HUMAN COMPUTERS")
 
 
-let paragraph = document.getElementById("hey");
-paragraph.innerHTML = "Youtube subscribers.";
+alert("name:Enrico Charles Flora\ncourse:BSIT\nyear:1st year\nsubjectcode:HUMCOM\nsection:IAA1\nsubjectdescription:HUMAN COMPUTERS")
