@@ -1,6 +1,6 @@
 let safeToProceed = true;
 
-if (safeToProceed) {
+if (monday) {
   alert("You shall pass!");
 } else {
   alert("You shall not pass!");
