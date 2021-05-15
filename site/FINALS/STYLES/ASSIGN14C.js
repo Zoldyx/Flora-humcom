@@ -1,0 +1,1 @@
+console.log("name:Enrico Charles Flora\ncourse:BSIT\nyear:1st year\nsubjectcode:HUMCOM\nsection:IAA1\nsubjectdescription:HUMAN COMPUTERS");
