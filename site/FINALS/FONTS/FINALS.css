@@ -12,12 +12,12 @@ body
 }
 #mainContent{
     width: 1024px;
-    border: 4pt rgb(255, 255, 255) solid;
+    border: 2pt rgb(255, 255, 255) solid;
     background-color: rgb(0, 0, 0);
     
 }
 header, nav, article, .sec{
-    width: 1000px;
+    width: 1100px;
     height: 400px;
     border: 3pt rgb(255, 255, 255) solid;
     background-color: rgb(0, 0, 0);
