@@ -17,7 +17,7 @@ body
     
 }
 header, nav, article, .sec{
-    width: 1000px;
+    width: 900px;
     height: 200px;
     border: 1pt rgb(0, 0, 0) solid;
     background-color: rgb(0, 0, 0);
